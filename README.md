@@ -4,6 +4,11 @@
 ## About The Project
 
 City Search API
+* only spent a couple of hours as requested so API and DataAccess tests are skeletoned and no actual database exists
+to demonstrate what a complete project might look like
+* Read SQLDataReader is a good way to read a large amount of data from a database, but if too slow would consider using a search engine either a custom trie search like
+[https://github.com/RohitKaushal7/trie-search](https://visualstudiomagazine.com/articles/2015/10/20/text-pattern-search-trie-class-net.aspx) or elasticsearch
+
 
 ### Built With
 
